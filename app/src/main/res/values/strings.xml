@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ABCPlay</string>
+    <string name="bem_vindo_login">Aprenda português de forma dinânica e divertida!</string>
+    <string name="login">Login:</string>
+    <string name="email_text">E-mail</string>
+    <string name="senha_text">Senha</string>
+    <string name="login_text_button">Login</string>
+    <string name="cadastro_text_button">Cadastro</string>
+    <string name="escolha_text_button">Escolher assunto</string>
+    <string name="menu_Text_button">Menu</string>
+    <string name="bem_vindo_ao_abc_play">Bem vindo ao ABC PLAY, Rubens</string>
+    <string name="pergunta_do_quiz">Pergunta do quiz</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

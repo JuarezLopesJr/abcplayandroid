@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "694296934525",
+    "firebase_url": "https://abcplay-85523.firebaseio.com",
+    "project_id": "abcplay-85523",
+    "storage_bucket": "abcplay-85523.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:694296934525:android:5316bd4a52c0ed7fdb9914",
+        "android_client_info": {
+          "package_name": "com.example.abcplay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "694296934525-2osb25hlqr2p7gkcdl9i61prtnl49jo2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMFDEs9-_nzWBOXNn0YO55HvZG2VlGVBA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "694296934525-2osb25hlqr2p7gkcdl9i61prtnl49jo2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
